@@ -22,4 +22,4 @@ switch (q3) {
         break;
 }
 
-alert("Your Final Score: " + score + "/3");
+alert("Your Final Score: " + score + "/3");

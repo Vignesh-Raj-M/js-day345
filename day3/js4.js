@@ -1,5 +1,5 @@
 let distance = prompt("Enter the distance in km:");
-let transport = prompt("Enter transport type (bus, train, taxi):");
+let transport = prompt("Enter transport type (car, train, bike):");
 
 let farePerKm;
 switch (transport) {
@@ -19,5 +19,5 @@ switch (transport) {
 
 if (farePerKm > 0) {
     let totalFare = distance * farePerKm;
-    alert("Total fare for " + distance + " km by " + transport + " is: " + totalFare);
+    alert("Total fare for " + distance + " km by " + transport + " is: " + totalFare);
 }

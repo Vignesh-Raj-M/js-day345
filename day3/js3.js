@@ -12,5 +12,5 @@ if (totalExpense > income) {
 } else {
     alert("Total Expenses: " + totalExpense +
           "\nRemaining Balance: " + remaining +
-          "\nPercentage Spent: " + percentSpent + "%\n Message: You are within budget!");
+          "\nPercentage Spent: " + percentSpent + "%\n Message: You are within budget!");
 }

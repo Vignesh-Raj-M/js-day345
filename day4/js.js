@@ -48,4 +48,4 @@ switch(z){
         let d=x/y;
         alert("Your Answer is:"+d);
 }
-alert("\Don't blame Anyone. Good people gives you Happiness. Bad people gives you a Lesson.\"");
+alert("\"Don't blame Anyone. Good people gives you Happiness. Bad people gives you a Lesson.\"");
